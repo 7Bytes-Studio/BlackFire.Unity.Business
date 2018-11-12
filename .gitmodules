@@ -1,0 +1,6 @@
+[submodule "BlackFire.Unity.Business/Assets/Plugins/Framework/BasicFramework/BlackFire.Unity"]
+	path = BlackFire.Unity.Business/Assets/Plugins/Framework/BasicFramework/BlackFire.Unity
+	url = https://github.com/BlackFire-Studio/BlackFire.Unity.git
+[submodule "BlackFire.Unity.Business/Assets/Plugins/Framework/Basic/BlackFire.Unity"]
+	path = BlackFire.Unity.Business/Assets/Plugins/Framework/Basic/BlackFire.Unity
+	url = https://github.com/BlackFire-Studio/BlackFire.Unity.git

@@ -34,3 +34,7 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+BlackFire.Unity.Business/ProjectSettings/
+BlackFire.Unity.Business/Assets/Ignore/
+BlackFire.Unity.Business/.idea/
+BlackFire.Unity.Business/Assets/Plugins/Framework/.svn/
